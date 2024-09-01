@@ -13,8 +13,10 @@ int main(){
 	
 	cout<<"Ingrese el tipo de temperatura\n";
 	cout<<"=================\n";
+	cout<<"\n";
 	cout<<"1. Fahrenheit\n";
 	cout<<"2. Celsius\n";
+	cout<<"\n";
 	cout<<"=================\n";
 	
 	cin>>opcion;
